@@ -1,5 +1,7 @@
 import React from 'react';
 
+
+export default function hobbies(){
 <div id="Hobbies">
 <div></div>
     <div class="container">
@@ -12,3 +14,4 @@ import React from 'react';
     </div>
 
 </div>
+}
