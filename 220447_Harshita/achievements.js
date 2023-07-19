@@ -1,6 +1,6 @@
 import React from "react.js"
 
-
+export default function achievements(){
 <div id="Achievements">
     <div class="container">
         <h1 class="subtitle">My Achievements</h1>
@@ -48,7 +48,12 @@ import React from "react.js"
                 
                 
             </div>
+
             
         </div>
     </div>
 </div>
+
+
+
+}

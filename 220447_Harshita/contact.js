@@ -1,5 +1,6 @@
 import React from "react";
 
+export default function contact(){
 <div id="Contact">
 <script src="https://kit.fontawesome.com/113e870266.js" crossorigin="anonymous"></script>
     <div class="container">
@@ -20,3 +21,5 @@ import React from "react";
         </div>
     </div>
 </div>
+
+}

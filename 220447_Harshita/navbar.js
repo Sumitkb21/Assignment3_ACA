@@ -1,4 +1,7 @@
-<div id="header"> 
+import React from "react.js"
+
+export default function navbar(){
+<div id="navbar"> 
     <div class="container">
         <nav>
             <img src="./logo.png" alt="logo" width="200" height="150"/>
@@ -15,3 +18,5 @@
         
     </div>
 </div>
+
+}

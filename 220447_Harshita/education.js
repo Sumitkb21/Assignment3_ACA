@@ -1,6 +1,7 @@
 import React from 'react.js'
 
-<div id="Education">
+export default function education(){
+    <div id="Education">
     <div class="container">
         <div class="row">
             
@@ -33,3 +34,5 @@ import React from 'react.js'
         </div>
     </div>
 </div>
+
+}
