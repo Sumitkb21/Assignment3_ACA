@@ -1,5 +1,6 @@
 import React from 'react.js'
 
+export default function(){
 <div id="Advice_Form">
     <div class="container">
     
@@ -15,3 +16,4 @@ import React from 'react.js'
     </div>
     </div>
 </div>
+}
