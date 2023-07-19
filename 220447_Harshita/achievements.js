@@ -48,8 +48,12 @@ export default function achievements(){
                 
                 
             </div>
-}
+
             
         </div>
     </div>
 </div>
+
+
+
+}
